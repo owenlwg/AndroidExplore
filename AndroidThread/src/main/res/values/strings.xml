@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidThread</string>
+    <string name="code">    Runnable command = new Runnable() {\n
+        @Override\n
+        public void run() {\n
+            SystemClock.sleep(1000);\n
+            mStringBuilder.append(new Date());\n
+            mTextView.setText(mStringBuilder.toString());\n
+        }\n
+    };</string>
+</resources>
