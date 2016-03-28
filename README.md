@@ -1,11 +1,11 @@
 # AndroidExplore
-android explore, some samples
+Android explore, some samples
 
-AndroidThread：
-android线程池
+- ###AndroidThread：
+Android线程池
 
-Animation：
+- ###Animation：
 View动画和属性动画
 
-ScrollViewGroup
-custom scrolled ViewGroup
+- ###ScrollViewGroup
+Custom scrolled ViewGroup
